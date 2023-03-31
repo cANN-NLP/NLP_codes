@@ -1,0 +1,118 @@
+
+text = """
+The man will sail the boat.                         The man will open the gate.  
+The man will read the book.                         The beautiful birds catch fish in the river.
+You can't live without food for very long.          But there were not enough boats for everyone. 
+She may turn out the light.                         All the birds were beautiful. 
+He didn't want birds in his kitchen.                She can lock the door. 
+
+He went up on the top deck.                         I should hear the news on the radio. 
+I've always wanted to be able to speak Japanese.    I can see her shadow through the wall. 
+I have received a letter from my brother.           She spoke in a very loud voice. 
+She opened the door and let me in.                  I wrote a letter to her about her future. 
+I can hardly thank you enough for your kindness.    The ball hit the window and broke it. 
+
+I hung my coat on the wall.                         Alice wore a white dress. 
+They presented their idea to the captain.           We choose the right person to lead the group. 
+It costs a lot of money to fit up a new office.     The ship was sailing to England. 
+I have lived here since I was a student.            The boy doesn't like you very much either. 
+The girl standing over there is my sister.          We lived in London for fifteen years. 
+
+She wet her hands with water.                       She closed her eyes. 
+She has visited there many times.                   After a while, she fell asleep. 
+He took the salt out of the kitchen sink.           She wanted to see the news about the storm. 
+He looked at the stranger with concern.             He turned the key in the lock. 
+He returned from texas with his lovely new bride.   Goodness, I wonder if he knows. 
+
+The weather is getting worse day by day.            He was walking down the street. 
+These sailors showed great courage in the whaling.  She broke her leg in the fall. 
+My friend threw the ball back over the fence.       We employed a lawyer to settle the trouble. 
+He begged money in the streets.                     She stretched her arms out. 
+She calls me crazy and stupid.                      She sailed the boat without any help. 
+
+
+You may open your eyes.                             I am glad to see you again. 
+I met you here last year.                           This is a picture he took. 
+You have studied it for two years.                  It helped us complete the task. 
+Congress is the largest division.                   He had a light breakfast and dinner. 
+She tried to sleep, but she couldn't.               She is a pretty mistress. 
+
+He swept all the pieces of food into the dust box.  He said it would rain a lot. 
+Sorry, I thought you were someone else.             We saw a baby whale in the sea. 
+I knew nothing of his business either.              We wish you were here with us. 
+Green forest turns red in the autumn.               She read the letter more carefully the second time. 
+She lived in England during the winter.             We followed the path along the river. 
+
+They answered the strange question in turn.         He spent most of his life at home. 
+I will send a message to you.                       He was reading a book. 
+I've never played cards.                            He declared his love to her. 
+But I'm telling the truth.                          She leaves her house in the morning every day. 
+You must have suffered from a cold.                 It all sounds very interesting. 
+
+We crossed the river in a boat.                     She nodded her head with ease. 
+His voice sounded faint and far away.               The sea water swept over the deck. 
+The man will turn the key.                          I have seen you before. 
+It is difficult for me to speak English.            I always eat breakfast early in the morning to avoid the rush. 
+I have an aunt who lives in Rome.                   This is a picture which he took yesterday. 
+
+Just now I have finished my work.                   This picture shows people walking on the boat. 
+Leaders come together to talk about plans for laws. I always drink tea with his breakfast. 
+She opened her book.                                He put the penny on the table. 
+The wind was starting to blow.                      He told people to stay home. 
+People get less active as they get older.           The worst men often give the best advice. 
+
+
+We all felt sorry for his death.                    Dr Smith brought a bottle of wine to the party. 
+I suppose you're right.                             She cut the meat into small pieces. 
+Anne suddenly appeared in the room.                 She didn't pay any attention to me at all. 
+She carried her baby in her arms.                   His friends regard him as a man of the word. 
+She drew a picture of me.                           The whaling ship came back to nantucket. 
+
+He lives in a white house.                          I'm acquainted with that person. 
+He helped me out with my task.                      He was always asking for money. 
+I've been eating too much fish.                     He tied a rope around his neck. 
+Every picture tells a story.                        We'll be staying at home at this moment. 
+The ship sank to the bottom of the sea.             The man should pay the money.  
+
+
+She hasn't read the book yet.                       The boys want you to come here. 
+She did not eat anything until she was saved.       This is a ship that goes to London. 
+The picture which she painted is beautiful.         The picture that he took is very good. 
+English is spoken by many people in the world.      They build a house out of wood in the forest. 
+The ship sink to the bottom of the sea.             Some people have more money than others. 
+
+All of us ate fish for dinner.                      After a while, she fell asleep. 
+He should sweep the floor because there is bread pieces.     Her car was in the street. 
+We never know the worth of water until the well is dry.      He took care of his sick mother. 
+I may find his lost dog.                            I haven't seen you for years. 
+You can leave it to me.                             His dream has become a reality. 
+
+She became extremely sad after her mother's death.  He started his own business last year. 
+We were just talking about his new friend.          I paid the money for the present. 
+She must place a cup on the table.                  He is writing a history of the town for students. 
+I'm going to miss you very much.                    She could close the gate behind her. 
+He cannot raise his arms above his head.            You should listen to the words of your mother. 
+
+
+She drove the car into the narrow path.             He informed me about your late arrival. 
+I should drive along the road.                      My sister won first prize for her singing. 
+The hard weather could sink the ship.               We had sang a beautiful song together. 
+You may close the door.                             I could cross the street.  
+I was happy to meet you.                            The news made her happy so much. 
+
+I'm sorry to be late.                               A great white sharks have a sharp sense of smell. 
+She should tell me about his evil conduct.          I've never spoken ill of him in my life. 
+She seated herself at her desk.                     The man may hear the noise.  
+I told you to open the window.                      I have known him since I was a child. 
+She has written a few books on whales.              It is the flower of her country. 
+
+You shouldn't say things like that.                 I'm feeling a little sad this afternoon. 
+It is dangerous to swim with sharks up close.       I doubt the truth of his words. 
+You can't reach the mountain.                       You have studied English for two years. 
+The bird spread its wings.                          I can try but I can't promise. 
+The ship had many rooms for guests.                 All good things came to an end. 
+
+Emma shook her head with tears.                     She burst into tears and ran from the kitchen. 
+She shed tears at her wedding. 　
+"""
+
